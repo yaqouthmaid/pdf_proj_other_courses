@@ -1,1 +1,4 @@
-# pdf_proj_other_courses
+# ORGA : 
+
+Description : 95/100, individual project , Verilog file + FINAL CODE .
+
